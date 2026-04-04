@@ -19,14 +19,13 @@ This project was created to practice frontend development by recreating a Blinki
 ## Screenshots
 
 ### Homepage
-![Homepage](./screenshots/homepage.png)
+<img src="./screenshots/homepage.png" alt="Homepage" width="700">
 
 ### Product Sections
-![Product Sections](./screenshots/product-section.png)
+<img src="./screenshots/product-section.png" alt="Homepage" width="700">
 
 ### Mobile View
-![Mobile View](./screenshots/mobile-view.png)
-
+<img src="./screenshots/mobile-view.png" alt="Homepage" width="250">
 
 
 ## Purpose
