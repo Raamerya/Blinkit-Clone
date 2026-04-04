@@ -28,6 +28,7 @@ This project was created to practice frontend development by recreating a Blinki
 ![Mobile View](./screenshots/mobile-view.png)
 
 
+
 ## Purpose
 The purpose of this project is to strengthen my frontend development skills by building a responsive real-world inspired interface and improving my understanding of layout, styling, and responsive design.
 
